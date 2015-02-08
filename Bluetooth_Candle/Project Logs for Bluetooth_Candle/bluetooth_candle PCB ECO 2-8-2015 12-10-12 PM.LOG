@@ -1,0 +1,4 @@
+Added Component: Designator=X1(XTAL-2x2.5mm)
+Added Pin To Net: NetName=XC1 Pin=X1-1
+Added Pin To Net: NetName=XC2 Pin=X1-3
+Added Member To Class: ClassName=bluetooth_candle Member=Component X1 FA-20H 16.0000MF12V-AJ3

@@ -1,0 +1,4 @@
+Added Component: Designator=L3(NR3015T2R2M)
+Added Pin To Net: NetName=NetC4_2 Pin=L3-1
+Added Pin To Net: NetName=ANT Pin=L3-2
+Added Member To Class: ClassName=bluetooth_candle Member=Component L3 L-14C3N3SV4T
