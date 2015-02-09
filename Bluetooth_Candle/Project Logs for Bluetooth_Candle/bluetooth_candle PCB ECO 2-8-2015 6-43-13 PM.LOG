@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Change Component DesignItemId : Designator=D1 Old DesignItemId=APL3015SYCK-F01 New DesignItemId=C566C-AFS-CU0W0252
+Change Component Footprint: Designator=D1 Old Footprint=1206_LED New Footprint=Radial_LED
+Change Component Comment : Designator=D1 Old Comment=APL3015SYCK-F01 New Comment=C566C-AFS-CU0W0252
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Net: Name=NetD1_1
+Added Room: Name=bluetooth_candle
