@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=NR3015T2R2M New Footprint=0603_Capacitor
+Change Component Footprint: Designator=L2 Old Footprint=NR3015T2R2M New Footprint=0603_Capacitor
+Change Component Footprint: Designator=L3 Old Footprint=NR3015T2R2M New Footprint=0603_Capacitor
+Added Room: Name=bluetooth_candle

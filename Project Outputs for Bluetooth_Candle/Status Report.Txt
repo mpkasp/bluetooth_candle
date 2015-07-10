@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Bluetooth_Candle.PrjPcb]
+   Generated File[bluetooth_candle.TXT]
+   Generated File[bluetooth_candle.DRL]
+   Generated File[bluetooth_candle.LDP]
+   Generated File[bluetooth_candle.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:06:43 PM On 3/1/2015

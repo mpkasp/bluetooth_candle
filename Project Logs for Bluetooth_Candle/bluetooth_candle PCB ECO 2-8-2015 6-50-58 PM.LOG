@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=R2 Old DesignItemId=ERJ-1GEJ1R0C New DesignItemId=ERJ-P06J820V
+Change Component Footprint: Designator=R2 Old Footprint=0201 New Footprint=0805_RESISTOR
+Change Component Comment : Designator=R2 Old Comment=ERJ-1GEJ1R0C New Comment=ERJ-P06J820V
+Added Room: Name=bluetooth_candle
